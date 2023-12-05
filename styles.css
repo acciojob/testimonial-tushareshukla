@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+*{
+margin: 0;
+	padding:0;
+	border-sizing:border-box;
+
+}
+.main-container{
+	padding: 40px 20px;
+	background-color:#f5f5f5;
+	
+}
+.testimonial{
+	margin-bottom: 10px;
+	
+}
+.second-container{
+	margin-bottom:10px;
+	background-color: white;
+	padding:10px;
+	border: 1px solid #f5f5f5
+}
+.text{
+	font-size: small;
+}
+.author{
+	font-size: small;
+	
+	text-align: right;
+	font-style: italic;
+}
+
+
+
+
